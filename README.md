@@ -16,19 +16,15 @@ I've worked with SQL, Python, Power BI, Excel and n8n in business data analysis,
 
 **Freelance — Virtual Assistant & Process Automation | Mudanzas Riojano**  
 *Aug 2025 – Jul 2026*
-- Queried and structured business data using Python and SQL, and developed Power BI dashboards to monitor business performance.
-- Designed and implemented n8n workflows, contributing to a **40% reduction in operational management time**.
-- Developed and implemented a web platform to digitize invoicing and administrative processes.
+During my time working as a freelancer, I collaborated with Mudanzas Riojano (a transport company) to digitize their administrative and operational processes, with the goal of improving efficiency and information management. To this end, I developed and implemented a web platform designed to centralize invoicing and streamline administrative operations. I also used Python and SQL to query and structure data, creating dashboards in Power BI to monitor business performance. Furthermore, I designed and implemented process automation solutions using n8n, which accelerated repetitive tasks and integrated various digital tools. As a result, these initiatives helped reduce operational management time by 40%, fostering more efficient management and data-driven decision-making.
 
 **Software Quality Analyst Intern | NVISUAL S.A.C.**  
 *Mar 2025 – Jul 2025*
-- Validated data with SQL and performed functional and REST API tests using Postman.
-- Supported the *Aula Virtual* project's planning and monitoring with Jira, reporting KPIs and **90% milestone completion**.
-- Documented three software systems through user manuals, data dictionaries and functional workflows.
+During my internship as a Quality Analyst at NVISUAL S.A.C. (a technology consultancy), I participated in software quality assurance, functional documentation, and the monitoring of technology projects. To help validate system functionality, I performed functional and REST API testing using Postman, as well as data validation using SQL. Additionally, I collaborated on the planning and tracking of the "Virtual Classroom" (Aula Virtual) project via Jira, reporting on key performance indicators (KPIs) and achieving 90% completion of the established milestones. Furthermore, I documented three software systems by creating user manuals, data dictionaries, and functional workflows, which helped organize technical information and made the systems easier to understand.
 
 **Administrative Back Office | Mudanzas Riojano**  
 *Dec 2023 – Dec 2024*
-- Managed operational incidents, quotations, invoicing, contracts and customer service.
+During my time in the administrative back office at Mudanzas Riojano, I was involved in managing and coordinating administrative and operational activities, with the goal of ensuring efficient customer service and the proper oversight of moving services. My responsibilities included preparing and managing quotes, invoicing, and contracts, as well as handling customer inquiries and resolving operational or logistical issues. In this role, I maintained the necessary communication and coordination to follow up on each situation and facilitate its resolution. This experience helped me understand the importance of organized information management, process coordination, and customer service in contributing to the smooth running of operations.
 
 ## 🛠️ Skills & tools
 
@@ -80,19 +76,15 @@ He trabajado con SQL, Python, Power BI, Excel y n8n en actividades de análisis 
 
 **Autónomo — Asistente virtual y automatización de procesos | Mudanzas Riojano**  
 *Ago. 2025 – Jul. 2026*
-- Consulté y estructuré datos con Python y SQL, y elaboré cuadros de mando en Power BI para el seguimiento del rendimiento del negocio.
-- Diseñé e implementé flujos de automatización mediante n8n, contribuyendo a reducir los tiempos de gestión operativa en un **40 %**.
-- Desarrollé e implementé una plataforma web para digitalizar la facturación y procesos administrativos.
+Durante mi experiencia como autónomo, colaboré con Mudanzas Riojano (empresa de transportes) en la digitalización de sus procesos administrativos y operativos, con el objetivo de mejorar la eficiencia y la gestión de la información. Para ello, desarrollé e implementé una plataforma web destinada a centralizar la facturación y facilitar las operaciones administrativas. Asimismo, utilicé Python y SQL para consultar y estructurar datos, elaborando cuadros de mando en Power BI para el seguimiento del rendimiento del negocio. Además, diseñé e implementé soluciones de automatización de procesos mediante n8n, agilizando tareas repetitivas e integrando diferentes herramientas digitales. Como resultado, estas iniciativas contribuyeron a reducir los tiempos de gestión operativa en un 40 %, favoreciendo una gestión más eficiente y la toma de decisiones basada en datos.
 
 **Analista de Calidad en prácticas | NVISUAL S.A.C.**  
 *Mar. 2025 – Jul. 2025*
-- Realicé validaciones de datos con SQL y pruebas funcionales y de APIs REST con Postman.
-- Colaboré en la planificación y seguimiento del proyecto *Aula Virtual* mediante Jira, reportando KPIs y un **90 % de cumplimiento de hitos**.
-- Documenté tres sistemas de software con manuales de usuario, diccionarios de datos y flujos funcionales.
+Durante mis prácticas preprofesionales como Analista de Calidad en NVISUAL S.A.C. (consultora tecnológica, participé en actividades de aseguramiento de la calidad del software, documentación funcional y seguimiento de proyectos tecnológicos. Para contribuir a la validación del funcionamiento de los sistemas, realicé pruebas funcionales y de APIs REST mediante Postman, además de validaciones de datos utilizando SQL. Asimismo, colaboré en la planificación y seguimiento del proyecto «Aula Virtual» mediante Jira, reportando indicadores de rendimiento (KPIs) y alcanzando un cumplimiento del 90 % de los hitos establecidos. De manera complementaria, documenté tres sistemas de software mediante manuales de usuario, diccionarios de datos y flujos funcionales, contribuyendo a organizar la información técnica y facilitar la comprensión de los sistemas.
 
 **Back Office administrativo | Mudanzas Riojano**  
 *Dic. 2023 – Dic. 2024*
-- Gestioné incidencias operativas, presupuestos, facturación, contratos y atención al cliente.
+Durante mi experiencia en el área de Back Office Administrativo de Mudanzas Riojano, participé en la gestión y coordinación de actividades administrativas y operativas, con el objetivo de garantizar una atención eficiente al cliente y el correcto seguimiento de los servicios de mudanza. Entre mis responsabilidades se encontraban la elaboración y gestión de presupuestos, facturación y contratos, así como la atención al cliente y la resolución de incidencias operativas y logísticas. Para ello, mantenía la comunicación y coordinación necesarias para dar seguimiento a cada situación y facilitar su resolución. Esta experiencia me permitió comprender la importancia de una gestión organizada de la información, la coordinación de procesos y la atención al cliente para contribuir al buen funcionamiento de las operaciones.
 
 ## 🛠️ Competencias y herramientas
 
