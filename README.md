@@ -44,6 +44,8 @@ During my time in the administrative back office at Mudanzas Riojano, I was invo
 
 I'm currently reviewing and documenting my academic and personal projects. I'll share selected repositories here as they are ready.
 
+[edugs26/PetScan](https://github.com/edugs26/PetScan)
+
 ## 🌿 Beyond technology
 
 I'm curious about how data supports **Formula 1 strategy**, how **digital signal processing** shapes music and how technology can help organizations become more sustainable. I enjoy landscapes and nature, and I hope to contribute to sustainability-focused projects in the future.
@@ -103,6 +105,8 @@ Durante mi experiencia en el área de Back Office Administrativo de Mudanzas Rio
 ## 📂 Proyectos
 
 Actualmente estoy recuperando y documentando mis proyectos académicos y personales. Compartiré aquí una selección de repositorios a medida que estén preparados.
+
+[edugs26/PetScan](https://github.com/edugs26/PetScan)
 
 ## 🌿 Más allá de la tecnología
 
